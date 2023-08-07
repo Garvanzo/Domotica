@@ -1,10 +1,10 @@
 # RouterMCU
-El proyecto contiene la herramienta para flashear el Nodemcu-espX2 y las imagenes con su dirección de inicio (address ofset)
+El proyecto contiene la herramienta para flashear el Nodemcu-espX2 y los binarios con su dirección de inicio (address ofset)
 
 Instrucciones
 ---------------
 - El ejecutable de la herramienta de flasheo está en la ruta \nodemcu-flasher-master\nodemcu-flasher-master\Win64\Release (Win32 para 32 bits)
-- Ya dentro vamos a la pestaña bins y seteamos los bins con su dirección de inicio
+- Ya dentro vamos a la pestaña bins y seteamos los bin de la carpeta bins con su dirección de inicio correspondiente
 
 ![Binarios](Recursos/1CargaBins.png)
 
@@ -16,7 +16,7 @@ Instrucciones
 
 ![Flacheo](Recursos/3flash.png)
 
-- Una vez terminado vamos a configurar el router, entrando a cualquier navegador e ingresando la dirección 192.168.4.1 accederemos a la configuración del router, que es bastante intuitiva
+- Una vez terminado vamos a configurar el nodemcu, nos conectamos al wifi "MYAP" y entrando a cualquier navegador e ingresando la dirección 192.168.4.1 accederemos a la configuración del router, que es bastante intuitiva
 
 ![ConfigRuter](Recursos/4ConfigRouter.png)
 
