@@ -3,3 +3,5 @@ El proyecto contiene la herramienta para flashear el Nodemcu-espX2 y las imagene
 
 Instrucciones
 ---------------
+- El ejecutable de la herramienta de flasheo está en la ruta \nodemcu-flasher-master\nodemcu-flasher-master\Win64\Release (Win32 para 32 bits)
+- 
