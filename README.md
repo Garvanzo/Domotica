@@ -12,9 +12,18 @@ Instrucciones
 
 ![Settings](Recursos/2Config.png);
 
--iniciamos el flaseo y toca condigurar el router en la mascara
+-iniciamos el flaseo y esperamos que termine
+
+![Flacheo](Recursos/3flash.png)
+
+- Una vez terminado vamos a configurar el router, entrando a cualquier navegador e ingresando la dirección 192.168.4.1 accederemos a la configuración del router, que es bastante intuitiva
+
+![ConfigRuter](Recursos/4ConfigRouter.png)
+
+- STA setting: la dirección y contraseña del router al que se va a conectar el nodemcu
+- AP settings: la dirección y contraseña para conectarse al nodemcu
 
 
-Linux
+# Linux
 ---------------
 -los Binarios esán disponibles para que los puedan programar, luego pondé una herramienta de flasheo para Linux
