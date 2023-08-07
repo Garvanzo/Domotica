@@ -1,2 +1,3 @@
-# Domotica
-proyectos hechos con Arduino enfocados en domótica y automatización. Dentro de los codigos vienen las conecciones fisicas.  
+# RouterMCU
+El proyecto contiene la herramienta para flashear el Nodemcu-espX2. ./
+asfdas
