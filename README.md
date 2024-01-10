@@ -1,5 +1,5 @@
 # RouterESP
-El proyecto contiene la herramienta para flashear el Nodemcu-espX2 y los binarios con su dirección de inicio (address ofset)
+El proyecto contiene la herramienta para flashear placas Esp32 y Esp8266 en windows y los binarios con su dirección de inicio (address offset)
 
 Instrucciones
 ---------------
