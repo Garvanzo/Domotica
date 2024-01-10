@@ -29,7 +29,7 @@ Instrucciones
 
 # Linux
 ---------------
-- Utilizaremos la herramienta esptool (esptool.py) y lanzaremos el siguiente comando
+- Utilizaremos la herramienta esptool (esptool.py) y lanzaremos el siguiente comando (luego de --chip va el modelo de tu esp)
 ```
 esptool --chip esp32 \
 --before default_reset --after hard_reset write_flash \
