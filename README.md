@@ -4,6 +4,7 @@ El proyecto contiene la herramienta para flashear el Nodemcu-espX2 y los binario
 Instrucciones
 ---------------
 *Windows*
+---------------
 
 - El ejecutable de la herramienta de flasheo está en la ruta \nodemcu-flasher-master\nodemcu-flasher-master\Win64\Release (Win32 para 32 bits)
 - Ya dentro vamos a la pestaña bins y seteamos los bin de la carpeta bins con su dirección de inicio correspondiente
@@ -28,4 +29,7 @@ Instrucciones
 
 # Linux
 ---------------
--los Binarios esán disponibles para que los puedan programar, luego pondé una herramienta de flasheo para Linux
+- Utilizaremos la herramienta esptool (esptool.py) y lanzaremos el siguiente comando
+  '''
+asdad
+  '''
