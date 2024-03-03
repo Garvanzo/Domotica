@@ -13,7 +13,7 @@ Instrucciones
 
 - configuramos los parametros del flaseo, esos son los que recomiendo pero los defalut también están bien (la velocidad del flasheo la determina el baudrate)
 
-![Settings](Recursos/2Config.png);
+![Settings](Recursos/2Config.png)
 
 -iniciamos el flaseo y esperamos que termine
 
