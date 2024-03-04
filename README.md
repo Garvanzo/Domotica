@@ -7,17 +7,15 @@ Instrucciones
 ---------------
 
 - El ejecutable de la herramienta de flasheo está en la ruta \nodemcu-flasher-master\nodemcu-flasher-master\Win64\Release (Win32 para 32 bits)
-- Ya dentro vamos a seleccionar los bins de la carpeta "bins" con su dirección de inicio correspondiente
+- Ya dentro vamos a seleccionar nuestra placa
 
 ![Binarios](Recursos/1placa.png)
 
-- configuramos los parametros del flaseo, esos son los que recomiendo pero los defalut también están bien (la velocidad del flasheo la determina el baudrate)
+- configuramos los parametros del flaseo (los default están bien), los binarios con su dirección de inicio correspondiente
 
-![Settings](Recursos/2Config.png)
+![Settings](Recursos/2espflash.png)
 
--iniciamos el flaseo y esperamos que termine
-
-![Flacheo](Recursos/3flash.png)
+-iniciamos el flaseo, presionamos el boot en nuestra placa y esperamos que termine
 
 - Una vez terminado vamos a configurar el nodemcu, nos conectamos al wifi "MYAP" y entrando a cualquier navegador e ingresando la dirección 192.168.4.1 accederemos a la configuración del router, que es bastante intuitiva
 
