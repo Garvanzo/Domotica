@@ -6,7 +6,7 @@ Instrucciones
 *Windows*
 ---------------
 
-- El ejecutable de la herramienta de flasheo está incluido en el proyecto, solo hay que abrirlo ![flash_download_tool_3.9.5(flash_download_tool_3.9.5/)]
+- El ejecutable de la herramienta de flasheo está incluido en el proyecto, solo hay que abrirlo ![flash_download_tool_3.9.5](flash_download_tool_3.9.5/)
 - Ya dentro vamos a seleccionar nuestra placa
 
 ![Binarios](Recursos/1placa.png)
