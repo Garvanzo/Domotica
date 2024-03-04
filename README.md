@@ -11,7 +11,7 @@ Instrucciones
 
 ![Binarios](Recursos/1placa.png)
 
-- configuramos los parametros del flaseo (los default están bien), los binarios con su dirección de inicio correspondiente
+- configuramos los parametros del flaseo (los default están bien) y los binarios con su dirección de inicio correspondiente
 
 ![Settings](Recursos/2espflash.png)
 
