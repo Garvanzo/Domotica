@@ -7,9 +7,9 @@ Instrucciones
 ---------------
 
 - El ejecutable de la herramienta de flasheo está en la ruta \nodemcu-flasher-master\nodemcu-flasher-master\Win64\Release (Win32 para 32 bits)
-- Ya dentro vamos a la pestaña bins y seteamos los bin de la carpeta bins con su dirección de inicio correspondiente
+- Ya dentro vamos a seleccionar los bins de la carpeta "bins" con su dirección de inicio correspondiente
 
-![Binarios](Recursos/1CargaBins.png)
+![Binarios](Recursos/1placa.png)
 
 - configuramos los parametros del flaseo, esos son los que recomiendo pero los defalut también están bien (la velocidad del flasheo la determina el baudrate)
 
